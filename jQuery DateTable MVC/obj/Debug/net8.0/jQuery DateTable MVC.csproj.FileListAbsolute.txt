@@ -1,0 +1,41 @@
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.staticwebassets.runtime.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.staticwebassets.endpoints.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.exe
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.deps.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.runtimeconfig.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\jQuery DateTable MVC.pdb
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.csproj.AssemblyReference.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.AssemblyInfoInputs.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.AssemblyInfo.cs
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.csproj.CoreCompileInputs.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.RazorAssemblyInfo.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.RazorAssemblyInfo.cs
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\scopedcss\bundle\jQuery DateTable MVC.styles.css
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\scopedcss\projectbundle\jQuery DateTable MVC.bundle.scp.css
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery D.EAD3A135.Up2Date
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\refint\jQuery DateTable MVC.dll
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.pdb
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\jQuery DateTable MVC.genruntimeconfig.cache
+C:\Users\jjjja\Desktop\c#\jQuery DateTable MVC\jQuery DateTable MVC\obj\Debug\net8.0\ref\jQuery DateTable MVC.dll
