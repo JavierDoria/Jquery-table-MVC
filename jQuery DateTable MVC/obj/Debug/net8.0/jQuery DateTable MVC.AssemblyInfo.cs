@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jQuery DateTable MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c31d1b929a67ecc9409464cbc4b4858a2d35245")]
 [assembly: System.Reflection.AssemblyProductAttribute("jQuery DateTable MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jQuery DateTable MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
